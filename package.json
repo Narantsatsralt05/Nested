@@ -1,0 +1,19 @@
+{
+  "name": "nested",
+  "version": "1.0.0",
+  "description": "Nest package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Narantsatsralt05/Nested.git"
+  },
+  "author": "Narantsatsralt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Narantsatsralt05/Nested/issues"
+  },
+  "homepage": "https://github.com/Narantsatsralt05/Nested#readme"
+}
